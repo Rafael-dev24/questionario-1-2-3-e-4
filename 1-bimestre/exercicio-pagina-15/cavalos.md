@@ -7,6 +7,7 @@
 * O Haras Cavalos Brilhantes compra cavalos com frequência. Ler a quantidade de cavalos
 * adquiridos recentemente, calcular a quantidade de ferraduras necessárias para os novos cavalos e exibir
 * a quantidade de novos cavalos e sua respectiva quantidade de ferraduras.
+
 */
 programa
 {
